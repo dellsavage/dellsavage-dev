@@ -1,24 +1,25 @@
 # DellSavage.dev
 
-Short description of the portfolio.
+My personal software engineering portfolio, built to document the products,
+infrastructure experiments, and technical notes I am developing.
 
 ![DellSavage.dev homepage](./public/screenshots/homepage.png)
 
 ## Live Site
 
-Link to dellsavage.dev.
+[dellsavage.dev](https://dellsavage.dev)
 
 ## Overview
 
-Explain that the website presents your projects, experiments, writing,
-and development interests.
+The site is designed as a simple public home for my work. It connects my main
+projects, technical experiments, writing, and career direction in one place.
 
 ## Current Sections
 
-- Work
-- Labs
-- Writing
-- About
+- **Work** — public projects and product case studies
+- **Labs** — infrastructure, local AI, and technical experiments
+- **Writing** — technical notes and project decisions
+- **About** — background, focus areas, and links
 
 ## Technology
 
@@ -28,15 +29,11 @@ and development interests.
 - Tailwind CSS
 - Netlify
 
-## Design Direction
-
-Explain the minimal interface, project navigation, subtle grid,
-and focus on making the projects feel connected.
-
 ## Running Locally
 
-Installation and development commands.
-
-## Project Status
-
-Explain that the website is active and being expanded as your projects mature.
+```bash
+git clone https://github.com/dellsavage/dellsavage-dev.git
+cd dellsavage-dev
+npm install
+npm run dev
+```
