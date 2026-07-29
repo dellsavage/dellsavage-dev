@@ -5,7 +5,7 @@ export const siteConfig = {
     "I'm a computer science and mathematics student building software, exploring infrastructure, and sharing what I learn along the way.",
   url: "https://dellsavage.dev",
   links: {
-    github: "https://github.com/dsavage205",
+    github: "https://github.com/dellsavage",
   },
 } as const;
 
